@@ -2,4 +2,6 @@
 <resources>
     <color name="primaryBackground">#191919</color>
     <color name="primaryForeground">@color/white</color>
+    <color name="primaryBackgroundMC">@color/black</color>
+    <color name="primaryForegroundMC">@color/white</color>
 </resources>

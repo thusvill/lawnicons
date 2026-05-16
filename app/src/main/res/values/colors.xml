@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primaryBackground">@color/white</color>
     <color name="primaryForeground">@color/black</color>
+    <color name="primaryBackgroundMC">@color/black</color>
+    <color name="primaryForegroundMC">@color/white</color>
 </resources>
